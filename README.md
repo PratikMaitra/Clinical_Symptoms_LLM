@@ -17,7 +17,7 @@ Each model was evaluated on:
 - its ability to **detect symptoms**, and  
 - its ability to **determine the severity of symptoms**.
 
-Thus, we ran two experimental settings:  
+We ran two experimental settings:  
 1. **Symptom detection**  
 2. **Symptom severity detection**
 
