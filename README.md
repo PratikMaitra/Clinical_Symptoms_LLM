@@ -8,7 +8,7 @@ GitHub repository for LLM-based symptom severity annotation of clinical notes.
 
 We tested the performance of **four LLM models**:  
 - **Llama-3.1-405B Instruct**  
-- **GPT-4o3**  
+- **GPT-4o**  
 - **Claude 3.5 Sonnet**  
 - **DeepSeek-R1 Chat**
 
