@@ -83,7 +83,7 @@ sym1, sym2, use the format sym1:rating1 , sym2:rating2.
 - Pratik Maitra, MS<sup>2</sup>  
 - Alaa Albashayreh, PhD, RN<sup>1</sup>  
 
-<sup>1</sup> University of Iowa College of Nursing, Iowa City, IA, USA  
-<sup>2</sup> Iowa State University Department of Computer Science, Ames, IA, USA  
+<sup>1</sup> University of Iowa, College of Nursing, Iowa City, IA, USA  
+<sup>2</sup> Iowa State University, Department of Computer Science, Ames, IA, USA  
 
 
